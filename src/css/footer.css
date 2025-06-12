@@ -1,0 +1,11 @@
+.Footer {
+    background-color: rgb(53, 56, 55);
+    padding: 1rem 0;
+    /* pour laisser de l'espace vertical */
+    min-height: 80px;
+    /* ou plus selon besoin */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}

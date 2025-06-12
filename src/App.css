@@ -1,0 +1,5 @@
+.accordion-body {
+    overflow: hidden;
+    /* Évite le débordement */
+    border-radius: 0 0 12px 12px;
+}

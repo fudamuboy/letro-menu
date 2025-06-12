@@ -1,0 +1,23 @@
+.header {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(53, 56, 55);
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1020;
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 25px 15px;
+    border-radius: 10px;
+}
+
+.bleme {
+    border-radius: 100px;
+    color: aliceblue;
+}
